@@ -4,7 +4,9 @@ Housing Prices Competition - Version 2
 ## Competition
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-## Libraries Used
+## Tools Used
+- jupyter notebook
+- python
 - pandas
 - scikit-learn
 
@@ -12,4 +14,5 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 Score: 18373.93703
 
 ## Files
-- house-prices.ipynb
+- housing-prices.ipynb
+- submission.csv
