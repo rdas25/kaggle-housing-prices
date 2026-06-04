@@ -1,16 +1,15 @@
 # kaggle-housing-prices
 Housing Prices Competition - Version 2
 
-## Files
-- house-prices.ipynb
-
-## Dataset
+## Competition
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-## Goal
-Predict house prices using regression models.
-
-## Tools Used
-- Python
+## Libraries Used
 - pandas
 - scikit-learn
+
+## Result
+Score: 18373.93703
+
+## Files
+- house-prices.ipynb
